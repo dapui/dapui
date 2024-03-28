@@ -4,6 +4,6 @@
 </div>
 <br>
 <div align="center">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Dapui&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=dapui&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Dapui's github stats" />
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapui&layout=compact&theme=nord&hide_border=true" />
 </div>
