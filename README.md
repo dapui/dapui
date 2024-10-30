@@ -5,6 +5,6 @@
 <br>
 <div align="center">
   <!--<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=dapui&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Dapui's github stats" />-->
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=dapui&amp;hide=&amp;hide_title=true&amp;show_icons=true&amp;include_all_commits=true&amp;theme=nord">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapui&layout=compact&theme=nord&hide_border=true" />
+  <img align="center" style="width:50%;height:180px" src="https://github-readme-stats.vercel.app/api?username=dapui&amp;hide=&amp;hide_title=true&amp;show_icons=true&amp;include_all_commits=true&amp;theme=nord">
+  <img align="center" style="width:49.9%;height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapui&layout=compact&theme=nord&hide_border=true" />
 </div>
